@@ -1,5 +1,6 @@
 %{
     #include<iostream>
+    int k = 0;
 %}
 %%
 [a-z]* cout<<"accepted";
